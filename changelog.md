@@ -1,11 +1,10 @@
 ## 真我GTNeo5特性模块
-#### [123云盘下载](https://www.123912.com/s/qEaeVv-9ThTH?)，密码:`NVy8`
-
-> v2.3.4
+#### [123云盘下载](https://www.123865.com/s/RseRVv-whdAh?)，提取码：xMJF
+> v2.3.3.1
  - 添加检测更新内容
 
 > 感谢名单
  - 天伞桜
  - 小羽
- - 爱吃一品鸽蛋的寻梦人
+ - Deuteriun
  - 雨纷纷
